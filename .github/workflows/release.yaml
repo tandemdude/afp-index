@@ -4,6 +4,7 @@ on:
       - main
     paths:
       - thys/**
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,7 +23,7 @@ jobs:
 
       - name: Create Archives
         run: |
-          bash ./.github/scripts/parse_roots.sh
+          bash ./.github/scripts/create_archives.sh
 
       - name: Create release
         uses: softprops/action-gh-release@v2
