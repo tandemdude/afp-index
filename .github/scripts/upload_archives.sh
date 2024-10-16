@@ -10,14 +10,17 @@ for archive in archives/*.zip; do
     exit 1
   fi
 
-  curl -L \
-    -X POST \
-    -H "Accept: application/vnd.github+json" \
-    -H "Authorization: Bearer $GITHUB_TOKEN" \
-    -H "X-GitHub-Api-Version: 2022-11-28" \
-    -H "Content-Type: application/zip" \
-    $UPLOAD_URL?name=$(basename $archive) \
-    --data-binary "@$archive" || (echo "Archive $(basename archive) upload failed" && exit 1)
+  gh release upload $TAG_NAME "$archive#$(basename $archive)" \
+    || (echo "Archive $(basename archive) upload failed" && exit 1)
+#
+#  curl -L \
+#    -X POST \
+#    -H "Accept: application/vnd.github+json" \
+#    -H "Authorization: token $GITHUB_TOKEN" \
+#    -H "X-GitHub-Api-Version: 2022-11-28" \
+#    -H "Content-Type: application/zip" \
+#    $UPLOAD_URL?name=$(basename $archive) \
+#    --data-binary "@$archive" || (echo "Archive $(basename archive) upload failed" && exit 1)
 
   # Increment the counter
   ((counter++))
