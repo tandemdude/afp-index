@@ -17,7 +17,7 @@ for archive in archives/*.zip; do
     -H "X-GitHub-Api-Version: 2022-11-28" \
     -H "Content-Type: application/zip" \
     $UPLOAD_URL?name=$(basename $archive) \
-    --data-binary "@$archive"
+    --data-binary "@$archive" || (echo "Archive $(basename archive) upload failed" && exit 1)
 
   # Increment the counter
   ((counter++))
