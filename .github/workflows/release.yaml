@@ -26,9 +26,20 @@ jobs:
           bash ./.github/scripts/create_archives.sh
 
       - name: Create release
+        id: create-release
         uses: softprops/action-gh-release@v2
         with:
           name: ${{ github.ref_name }}
+          body: |
+            Index of AFP version ${{ github.ref_name }}.
+            
+            [Original Source](https://foss.heptapod.net/isa-afp/afp-${{ github.ref_name }})
           tag_name: v${{ github.ref_name }}
           prerelease: false
-          files: archives/*.zip
+
+      - name: Upload Archives
+        env:
+          UPLOAD_URL: ${{ steps.create-release.outputs.upload_url }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          bash ./.github/scripts/upload_archives.sh
