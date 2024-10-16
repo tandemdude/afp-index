@@ -39,7 +39,7 @@ jobs:
 
       - name: Upload Archives
         env:
-          UPLOAD_URL: ${{ steps.create-release.outputs.upload_url }}
+          TAG_NAME: v${{ github.ref_name }}
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           bash ./.github/scripts/upload_archives.sh
