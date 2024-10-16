@@ -1,0 +1,5 @@
+[project]
+name = 'List_Update'
+description = 'List_Update from the Archive of Formal Proofs'
+version = '2019'
+requires = []

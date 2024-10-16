@@ -1,0 +1,5 @@
+[project]
+name = 'DPT-SAT-Solver'
+description = 'DPT-SAT-Solver from the Archive of Formal Proofs'
+version = '2019'
+requires = []

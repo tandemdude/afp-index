@@ -1,0 +1,5 @@
+[project]
+name = 'Free-Groups'
+description = 'Free-Groups from the Archive of Formal Proofs'
+version = '2019'
+requires = []

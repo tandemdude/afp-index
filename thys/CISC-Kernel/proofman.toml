@@ -1,0 +1,5 @@
+[project]
+name = 'CISC-Kernel'
+description = 'CISC-Kernel from the Archive of Formal Proofs'
+version = '2019'
+requires = []

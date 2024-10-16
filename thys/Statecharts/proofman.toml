@@ -1,0 +1,5 @@
+[project]
+name = 'Statecharts'
+description = 'Statecharts from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'CCS'
+description = 'CCS from the Archive of Formal Proofs'
+version = '2019'
+requires = []

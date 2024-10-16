@@ -1,0 +1,5 @@
+[project]
+name = 'Tarskis_Geometry'
+description = 'Tarskis_Geometry from the Archive of Formal Proofs'
+version = '2019'
+requires = []

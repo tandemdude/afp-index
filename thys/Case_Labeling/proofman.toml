@@ -1,0 +1,5 @@
+[project]
+name = 'Case_Labeling'
+description = 'Case_Labeling from the Archive of Formal Proofs'
+version = '2019'
+requires = []

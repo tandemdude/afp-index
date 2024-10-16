@@ -1,0 +1,5 @@
+[project]
+name = 'Polynomial_Interpolation'
+description = 'Polynomial_Interpolation from the Archive of Formal Proofs'
+version = '2019'
+requires = []

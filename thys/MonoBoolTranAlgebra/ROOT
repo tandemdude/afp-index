@@ -1,0 +1,9 @@
+chapter AFP
+
+session MonoBoolTranAlgebra (AFP) = LatticeProperties +
+  options [timeout = 600]
+  theories
+    Statements
+  document_files
+    "root.bib"
+    "root.tex"

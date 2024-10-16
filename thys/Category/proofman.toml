@@ -1,0 +1,5 @@
+[project]
+name = 'Category'
+description = 'Category from the Archive of Formal Proofs'
+version = '2019'
+requires = []

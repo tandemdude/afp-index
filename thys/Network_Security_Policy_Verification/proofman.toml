@@ -1,0 +1,5 @@
+[project]
+name = 'Network_Security_Policy_Verification'
+description = 'Network_Security_Policy_Verification from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'CAVA_LTL_Modelchecker'
+description = 'CAVA_LTL_Modelchecker from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'IEEE_Floating_Point'
+description = 'IEEE_Floating_Point from the Archive of Formal Proofs'
+version = '2019'
+requires = []

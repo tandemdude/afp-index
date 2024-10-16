@@ -1,0 +1,5 @@
+[project]
+name = 'Secondary_Sylow'
+description = 'Secondary_Sylow from the Archive of Formal Proofs'
+version = '2019'
+requires = []

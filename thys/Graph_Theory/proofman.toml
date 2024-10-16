@@ -1,0 +1,5 @@
+[project]
+name = 'Graph_Theory'
+description = 'Graph_Theory from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'FOL-Fitting'
+description = 'FOL-Fitting from the Archive of Formal Proofs'
+version = '2019'
+requires = []

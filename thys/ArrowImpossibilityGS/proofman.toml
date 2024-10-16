@@ -1,0 +1,5 @@
+[project]
+name = 'ArrowImpossibilityGS'
+description = 'ArrowImpossibilityGS from the Archive of Formal Proofs'
+version = '2019'
+requires = []

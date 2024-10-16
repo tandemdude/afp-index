@@ -1,0 +1,5 @@
+[project]
+name = 'Gauss-Jordan-Elim-Fun'
+description = 'Gauss-Jordan-Elim-Fun from the Archive of Formal Proofs'
+version = '2019'
+requires = []

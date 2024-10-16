@@ -1,0 +1,5 @@
+[project]
+name = 'Random_Graph_Subgraph_Threshold'
+description = 'Random_Graph_Subgraph_Threshold from the Archive of Formal Proofs'
+version = '2019'
+requires = []

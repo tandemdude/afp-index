@@ -1,0 +1,5 @@
+[project]
+name = 'Bounded_Deducibility_Security'
+description = 'Bounded_Deducibility_Security from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Jordan_Normal_Form'
+description = 'Jordan_Normal_Form from the Archive of Formal Proofs'
+version = '2019'
+requires = []

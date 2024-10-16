@@ -1,0 +1,5 @@
+[project]
+name = 'Datatype_Order_Generator'
+description = 'Datatype_Order_Generator from the Archive of Formal Proofs'
+version = '2019'
+requires = []

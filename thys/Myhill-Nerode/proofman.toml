@@ -1,0 +1,5 @@
+[project]
+name = 'Myhill-Nerode'
+description = 'Myhill-Nerode from the Archive of Formal Proofs'
+version = '2019'
+requires = []

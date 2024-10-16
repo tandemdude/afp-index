@@ -1,0 +1,5 @@
+[project]
+name = 'Special_Function_Bounds'
+description = 'Special_Function_Bounds from the Archive of Formal Proofs'
+version = '2019'
+requires = []

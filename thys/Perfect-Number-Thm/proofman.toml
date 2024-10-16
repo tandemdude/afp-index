@@ -1,0 +1,5 @@
+[project]
+name = 'Perfect-Number-Thm'
+description = 'Perfect-Number-Thm from the Archive of Formal Proofs'
+version = '2019'
+requires = []

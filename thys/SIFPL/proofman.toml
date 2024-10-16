@@ -1,0 +1,5 @@
+[project]
+name = 'SIFPL'
+description = 'SIFPL from the Archive of Formal Proofs'
+version = '2019'
+requires = []

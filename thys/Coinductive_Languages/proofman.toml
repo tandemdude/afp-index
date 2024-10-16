@@ -1,0 +1,5 @@
+[project]
+name = 'Coinductive_Languages'
+description = 'Coinductive_Languages from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Ramsey-Infinite'
+description = 'Ramsey-Infinite from the Archive of Formal Proofs'
+version = '2019'
+requires = []

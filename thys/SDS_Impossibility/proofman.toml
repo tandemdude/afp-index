@@ -1,0 +1,5 @@
+[project]
+name = 'SDS_Impossibility'
+description = 'SDS_Impossibility from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Open_Induction'
+description = 'Open_Induction from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Abstract-Hoare-Logics'
+description = 'Abstract-Hoare-Logics from the Archive of Formal Proofs'
+version = '2019'
+requires = []

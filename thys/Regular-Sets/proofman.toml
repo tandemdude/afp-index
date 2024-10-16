@@ -1,0 +1,5 @@
+[project]
+name = 'Regular-Sets'
+description = 'Regular-Sets from the Archive of Formal Proofs'
+version = '2019'
+requires = []

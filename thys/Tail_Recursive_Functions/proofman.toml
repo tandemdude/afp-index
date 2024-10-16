@@ -1,0 +1,5 @@
+[project]
+name = 'Tail_Recursive_Functions'
+description = 'Tail_Recursive_Functions from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Gabow_SCC'
+description = 'Gabow_SCC from the Archive of Formal Proofs'
+version = '2019'
+requires = []

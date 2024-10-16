@@ -1,0 +1,11 @@
+chapter AFP
+
+session "Coinductive_Languages" (AFP) = HOL +
+  theories [document = false]
+    "../Regular-Sets/Regular_Set"
+  theories
+    Coinductive_Language
+    Coinductive_Regular_Set
+    CFG_Examples
+  document_files
+    "root.tex"

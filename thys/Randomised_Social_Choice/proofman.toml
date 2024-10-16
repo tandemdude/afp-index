@@ -1,0 +1,5 @@
+[project]
+name = 'Randomised_Social_Choice'
+description = 'Randomised_Social_Choice from the Archive of Formal Proofs'
+version = '2019'
+requires = []

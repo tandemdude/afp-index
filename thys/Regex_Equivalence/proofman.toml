@@ -1,0 +1,5 @@
+[project]
+name = 'Regex_Equivalence'
+description = 'Regex_Equivalence from the Archive of Formal Proofs'
+version = '2019'
+requires = []

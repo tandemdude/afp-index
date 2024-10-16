@@ -1,0 +1,5 @@
+[project]
+name = 'LTL_to_DRA'
+description = 'LTL_to_DRA from the Archive of Formal Proofs'
+version = '2019'
+requires = []

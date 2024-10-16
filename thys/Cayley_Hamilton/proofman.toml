@@ -1,0 +1,5 @@
+[project]
+name = 'Cayley_Hamilton'
+description = 'Cayley_Hamilton from the Archive of Formal Proofs'
+version = '2019'
+requires = []

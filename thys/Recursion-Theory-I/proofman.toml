@@ -1,0 +1,5 @@
+[project]
+name = 'Recursion-Theory-I'
+description = 'Recursion-Theory-I from the Archive of Formal Proofs'
+version = '2019'
+requires = []

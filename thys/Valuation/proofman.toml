@@ -1,0 +1,5 @@
+[project]
+name = 'Valuation'
+description = 'Valuation from the Archive of Formal Proofs'
+version = '2019'
+requires = []

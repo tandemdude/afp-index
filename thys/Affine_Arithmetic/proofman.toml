@@ -1,0 +1,5 @@
+[project]
+name = 'Affine_Arithmetic'
+description = 'Affine_Arithmetic from the Archive of Formal Proofs'
+version = '2019'
+requires = []

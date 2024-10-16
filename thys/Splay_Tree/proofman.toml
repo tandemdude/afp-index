@@ -1,0 +1,5 @@
+[project]
+name = 'Splay_Tree'
+description = 'Splay_Tree from the Archive of Formal Proofs'
+version = '2019'
+requires = []

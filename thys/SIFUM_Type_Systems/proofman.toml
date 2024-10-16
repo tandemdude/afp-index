@@ -1,0 +1,5 @@
+[project]
+name = 'SIFUM_Type_Systems'
+description = 'SIFUM_Type_Systems from the Archive of Formal Proofs'
+version = '2019'
+requires = []

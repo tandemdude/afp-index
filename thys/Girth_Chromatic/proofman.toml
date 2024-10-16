@@ -1,0 +1,5 @@
+[project]
+name = 'Girth_Chromatic'
+description = 'Girth_Chromatic from the Archive of Formal Proofs'
+version = '2019'
+requires = []

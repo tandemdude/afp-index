@@ -1,0 +1,5 @@
+[project]
+name = 'KBPs'
+description = 'KBPs from the Archive of Formal Proofs'
+version = '2019'
+requires = []

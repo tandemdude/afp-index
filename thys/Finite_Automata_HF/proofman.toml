@@ -1,0 +1,5 @@
+[project]
+name = 'Finite_Automata_HF'
+description = 'Finite_Automata_HF from the Archive of Formal Proofs'
+version = '2019'
+requires = []

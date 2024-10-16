@@ -1,0 +1,5 @@
+[project]
+name = 'Sturm_Sequences'
+description = 'Sturm_Sequences from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Bell_Numbers_Spivey'
+description = 'Bell_Numbers_Spivey from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'MFMC_Countable'
+description = 'MFMC_Countable from the Archive of Formal Proofs'
+version = '2019'
+requires = []

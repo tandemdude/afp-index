@@ -1,0 +1,18 @@
+chapter AFP
+
+session Markov_Models (AFP) = "HOL-Probability" +
+  options [timeout = 600]
+  theories [document = false]
+    "../Gauss-Jordan-Elim-Fun/Gauss_Jordan_Elim_Fun"
+    "~~/src/HOL/Library/While_Combinator"
+    "~~/src/HOL/Library/Rewrite"
+    "~~/src/HOL/Library/Monad_Syntax"
+    "~~/src/HOL/Library/Linear_Temporal_Logic_on_Streams"
+    "~~/src/HOL/Library/IArray"
+    "~~/src/HOL/Library/Code_Target_Numeral"
+    "../Coinductive/Coinductive"
+  theories
+    "Markov_Models"
+  document_files
+    "root.bib"
+    "root.tex"

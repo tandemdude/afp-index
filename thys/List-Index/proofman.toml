@@ -1,0 +1,5 @@
+[project]
+name = 'List-Index'
+description = 'List-Index from the Archive of Formal Proofs'
+version = '2019'
+requires = []

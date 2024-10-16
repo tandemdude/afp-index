@@ -1,0 +1,5 @@
+[project]
+name = 'Abstract_Completeness'
+description = 'Abstract_Completeness from the Archive of Formal Proofs'
+version = '2019'
+requires = []

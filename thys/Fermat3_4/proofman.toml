@@ -1,0 +1,5 @@
+[project]
+name = 'Fermat3_4'
+description = 'Fermat3_4 from the Archive of Formal Proofs'
+version = '2019'
+requires = []

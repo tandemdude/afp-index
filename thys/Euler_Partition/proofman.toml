@@ -1,0 +1,5 @@
+[project]
+name = 'Euler_Partition'
+description = 'Euler_Partition from the Archive of Formal Proofs'
+version = '2019'
+requires = []

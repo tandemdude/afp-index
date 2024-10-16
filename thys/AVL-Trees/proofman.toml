@@ -1,0 +1,5 @@
+[project]
+name = 'AVL-Trees'
+description = 'AVL-Trees from the Archive of Formal Proofs'
+version = '2019'
+requires = []

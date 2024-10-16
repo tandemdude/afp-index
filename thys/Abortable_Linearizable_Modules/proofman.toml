@@ -1,0 +1,5 @@
+[project]
+name = 'Abortable_Linearizable_Modules'
+description = 'Abortable_Linearizable_Modules from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Amortized_Complexity'
+description = 'Amortized_Complexity from the Archive of Formal Proofs'
+version = '2019'
+requires = []

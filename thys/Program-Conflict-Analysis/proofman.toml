@@ -1,0 +1,5 @@
+[project]
+name = 'Program-Conflict-Analysis'
+description = 'Program-Conflict-Analysis from the Archive of Formal Proofs'
+version = '2019'
+requires = []

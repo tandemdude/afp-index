@@ -1,0 +1,5 @@
+[project]
+name = 'RIPEMD-160-SPARK'
+description = 'RIPEMD-160-SPARK from the Archive of Formal Proofs'
+version = '2019'
+requires = []

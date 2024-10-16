@@ -1,0 +1,5 @@
+[project]
+name = 'Partial_Function_MR'
+description = 'Partial_Function_MR from the Archive of Formal Proofs'
+version = '2019'
+requires = []

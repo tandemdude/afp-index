@@ -1,0 +1,5 @@
+[project]
+name = 'Parity_Game'
+description = 'Parity_Game from the Archive of Formal Proofs'
+version = '2019'
+requires = []

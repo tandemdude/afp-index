@@ -1,0 +1,5 @@
+[project]
+name = 'VectorSpace'
+description = 'VectorSpace from the Archive of Formal Proofs'
+version = '2019'
+requires = []

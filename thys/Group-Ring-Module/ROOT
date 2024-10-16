@@ -1,0 +1,8 @@
+chapter AFP
+
+session "Group-Ring-Module" (AFP) = "HOL-Library" +
+  options [timeout = 600]
+  theories
+    Algebra9
+  document_files
+    "root.tex"

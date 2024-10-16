@@ -1,0 +1,5 @@
+[project]
+name = 'Knot_Theory'
+description = 'Knot_Theory from the Archive of Formal Proofs'
+version = '2019'
+requires = []

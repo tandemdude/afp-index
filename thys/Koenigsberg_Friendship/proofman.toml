@@ -1,0 +1,5 @@
+[project]
+name = 'Koenigsberg_Friendship'
+description = 'Koenigsberg_Friendship from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Akra_Bazzi'
+description = 'Akra_Bazzi from the Archive of Formal Proofs'
+version = '2019'
+requires = []

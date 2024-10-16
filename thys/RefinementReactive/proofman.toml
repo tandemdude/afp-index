@@ -1,0 +1,5 @@
+[project]
+name = 'RefinementReactive'
+description = 'RefinementReactive from the Archive of Formal Proofs'
+version = '2019'
+requires = []

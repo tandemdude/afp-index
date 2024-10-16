@@ -1,0 +1,5 @@
+[project]
+name = 'Max-Card-Matching'
+description = 'Max-Card-Matching from the Archive of Formal Proofs'
+version = '2019'
+requires = []

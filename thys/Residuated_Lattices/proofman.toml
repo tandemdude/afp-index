@@ -1,0 +1,5 @@
+[project]
+name = 'Residuated_Lattices'
+description = 'Residuated_Lattices from the Archive of Formal Proofs'
+version = '2019'
+requires = []

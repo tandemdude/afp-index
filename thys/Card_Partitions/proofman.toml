@@ -1,0 +1,5 @@
+[project]
+name = 'Card_Partitions'
+description = 'Card_Partitions from the Archive of Formal Proofs'
+version = '2019'
+requires = []

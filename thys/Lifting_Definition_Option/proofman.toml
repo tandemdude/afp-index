@@ -1,0 +1,5 @@
+[project]
+name = 'Lifting_Definition_Option'
+description = 'Lifting_Definition_Option from the Archive of Formal Proofs'
+version = '2019'
+requires = []

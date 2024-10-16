@@ -1,0 +1,5 @@
+[project]
+name = 'Latin_Square'
+description = 'Latin_Square from the Archive of Formal Proofs'
+version = '2019'
+requires = []

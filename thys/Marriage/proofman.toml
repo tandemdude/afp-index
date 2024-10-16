@@ -1,0 +1,5 @@
+[project]
+name = 'Marriage'
+description = 'Marriage from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,12 @@
+chapter AFP
+
+session DataRefinementIBP (AFP) = HOL +
+  options [timeout = 600]
+  theories [document = false]
+    "../LatticeProperties/Complete_Lattice_Prop"
+    "../LatticeProperties/Conj_Disj"
+  theories
+    DataRefinement
+  document_files
+    "root.bib"
+    "root.tex"

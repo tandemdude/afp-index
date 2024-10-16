@@ -1,0 +1,5 @@
+[project]
+name = 'Ribbon_Proofs'
+description = 'Ribbon_Proofs from the Archive of Formal Proofs'
+version = '2019'
+requires = []

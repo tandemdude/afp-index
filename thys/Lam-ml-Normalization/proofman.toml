@@ -1,0 +1,5 @@
+[project]
+name = 'Lam-ml-Normalization'
+description = 'Lam-ml-Normalization from the Archive of Formal Proofs'
+version = '2019'
+requires = []

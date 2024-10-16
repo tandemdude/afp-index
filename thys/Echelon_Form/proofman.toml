@@ -1,0 +1,5 @@
+[project]
+name = 'Echelon_Form'
+description = 'Echelon_Form from the Archive of Formal Proofs'
+version = '2019'
+requires = []

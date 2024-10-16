@@ -1,0 +1,5 @@
+[project]
+name = 'No_FTL_observers'
+description = 'No_FTL_observers from the Archive of Formal Proofs'
+version = '2019'
+requires = []

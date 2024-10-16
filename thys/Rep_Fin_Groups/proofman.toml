@@ -1,0 +1,5 @@
+[project]
+name = 'Rep_Fin_Groups'
+description = 'Rep_Fin_Groups from the Archive of Formal Proofs'
+version = '2019'
+requires = []

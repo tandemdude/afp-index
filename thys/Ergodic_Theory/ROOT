@@ -1,0 +1,14 @@
+chapter AFP
+
+session "Ergodic_Theory" (AFP) = "HOL-Probability" +
+  options [timeout = 600]
+  theories
+    SG_Library_Complement
+    Conditional_Expectation
+    Measure_Preserving_Transformations
+    Recurrence
+    Invariants
+    Ergodicity
+    Fekete
+    Kingman
+  document_files "root.tex"

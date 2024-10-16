@@ -1,0 +1,9 @@
+chapter AFP
+
+session CofGroups (AFP) = "HOL-Library" +
+  options [timeout = 600]
+  theories
+    CofGroups
+  document_files
+    "root.bib"
+    "root.tex"

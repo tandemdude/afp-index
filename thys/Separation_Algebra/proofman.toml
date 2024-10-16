@@ -1,0 +1,5 @@
+[project]
+name = 'Separation_Algebra'
+description = 'Separation_Algebra from the Archive of Formal Proofs'
+version = '2019'
+requires = []

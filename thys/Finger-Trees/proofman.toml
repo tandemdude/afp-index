@@ -1,0 +1,5 @@
+[project]
+name = 'Finger-Trees'
+description = 'Finger-Trees from the Archive of Formal Proofs'
+version = '2019'
+requires = []

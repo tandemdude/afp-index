@@ -1,0 +1,5 @@
+[project]
+name = 'JinjaThreads'
+description = 'JinjaThreads from the Archive of Formal Proofs'
+version = '2019'
+requires = []

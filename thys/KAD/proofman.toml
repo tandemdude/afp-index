@@ -1,0 +1,5 @@
+[project]
+name = 'KAD'
+description = 'KAD from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Dijkstra_Shortest_Path'
+description = 'Dijkstra_Shortest_Path from the Archive of Formal Proofs'
+version = '2019'
+requires = []

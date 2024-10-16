@@ -1,0 +1,11 @@
+chapter AFP 
+
+session "HyperCTL" (AFP) = "HOL" +
+  options [timeout = 600]
+  theories [document = false]
+    "~~/src/HOL/Library/Stream"
+  theories
+    HyperCTL
+  document_files 
+    "root.tex"
+    "intro.tex"

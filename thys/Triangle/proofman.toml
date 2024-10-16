@@ -1,0 +1,5 @@
+[project]
+name = 'Triangle'
+description = 'Triangle from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Dynamic_Tables'
+description = 'Dynamic_Tables from the Archive of Formal Proofs'
+version = '2019'
+requires = []

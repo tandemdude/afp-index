@@ -1,0 +1,5 @@
+[project]
+name = 'Roy_Floyd_Warshall'
+description = 'Roy_Floyd_Warshall from the Archive of Formal Proofs'
+version = '2019'
+requires = []

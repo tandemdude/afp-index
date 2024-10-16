@@ -1,0 +1,54 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{isabelle,isabellesym}
+\usepackage{amsmath}
+\usepackage[english]{babel}
+\usepackage{stmaryrd}
+\usepackage{eufrak}
+\usepackage{wasysym}
+\usepackage{tikz}
+
+% this should be the last package used
+\usepackage{pdfsetup}
+
+% urls in roman style, theory text in math-similar italics
+\urlstyle{rm}
+\isabellestyle{it}
+
+
+\begin{document}
+
+\title{Probabilistic Models}
+\author{Johannes H\"olzl and Tobias Nipkow}
+\maketitle
+
+\begin{abstract}
+This is a formalization of probabilistic models in Isabelle/HOL. It builds on
+Isabelle's probability theory. The available models are currently Discrete-Time
+Markov Chains and a extensions of them with rewards.
+
+As application of these models we formalize probabilistic model checking of pCTL
+formulas, analysis of IPv4 address allocation in ZeroConf and a analysis of the
+anonymity of the Crowds protocol.
+
+The formalization of rewarded DTMCs and pCTL model checking is discussed in
+detail in our paper~\cite{hoelzl2012verifyingpctl}.
+\end{abstract}
+
+\tableofcontents
+
+% sane default for proof documents
+\parindent 0pt\parskip 0.5ex
+
+% generated text of all theories
+\input{session}
+
+% optional bibliography
+\bibliographystyle{abbrv}
+\bibliography{root}
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

@@ -1,0 +1,5 @@
+[project]
+name = 'Separation_Logic_Imperative_HOL'
+description = 'Separation_Logic_Imperative_HOL from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Well_Quasi_Orders'
+description = 'Well_Quasi_Orders from the Archive of Formal Proofs'
+version = '2019'
+requires = []

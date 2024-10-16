@@ -1,0 +1,5 @@
+[project]
+name = 'Probabilistic_System_Zoo'
+description = 'Probabilistic_System_Zoo from the Archive of Formal Proofs'
+version = '2019'
+requires = []

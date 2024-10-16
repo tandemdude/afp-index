@@ -1,0 +1,13 @@
+chapter AFP
+
+session Rep_Fin_Groups (AFP) = "HOL" +
+  theories [document = false]
+    "~~/src/HOL/Library/Function_Algebras"
+    "~~/src/HOL/Library/Set_Algebras"
+    "~~/src/HOL/Library/Polynomial"
+  theories
+    Rep_Fin_Groups
+  document_files
+    "root.tex"
+    "root.bib"
+

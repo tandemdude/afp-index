@@ -1,0 +1,5 @@
+[project]
+name = 'Landau_Symbols'
+description = 'Landau_Symbols from the Archive of Formal Proofs'
+version = '2019'
+requires = []

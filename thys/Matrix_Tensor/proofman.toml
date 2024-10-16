@@ -1,0 +1,5 @@
+[project]
+name = 'Matrix_Tensor'
+description = 'Matrix_Tensor from the Archive of Formal Proofs'
+version = '2019'
+requires = []

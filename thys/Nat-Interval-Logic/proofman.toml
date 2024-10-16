@@ -1,0 +1,5 @@
+[project]
+name = 'Nat-Interval-Logic'
+description = 'Nat-Interval-Logic from the Archive of Formal Proofs'
+version = '2019'
+requires = []

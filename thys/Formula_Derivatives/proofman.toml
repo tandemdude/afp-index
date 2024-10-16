@@ -1,0 +1,5 @@
+[project]
+name = 'Formula_Derivatives'
+description = 'Formula_Derivatives from the Archive of Formal Proofs'
+version = '2019'
+requires = []

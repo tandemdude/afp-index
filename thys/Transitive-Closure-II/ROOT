@@ -1,0 +1,11 @@
+chapter AFP
+
+session "Transitive-Closure-II" (AFP) = HOL +
+  options [timeout = 600]
+  theories [document = false]
+    "../Regular-Sets/Regexp_Method"
+  theories
+    RTrancl
+  document_files
+    "root.bib"
+    "root.tex"

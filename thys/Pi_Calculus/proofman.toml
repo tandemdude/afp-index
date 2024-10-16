@@ -1,0 +1,5 @@
+[project]
+name = 'Pi_Calculus'
+description = 'Pi_Calculus from the Archive of Formal Proofs'
+version = '2019'
+requires = []

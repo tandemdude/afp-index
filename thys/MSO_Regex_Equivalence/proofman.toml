@@ -1,0 +1,5 @@
+[project]
+name = 'MSO_Regex_Equivalence'
+description = 'MSO_Regex_Equivalence from the Archive of Formal Proofs'
+version = '2019'
+requires = []

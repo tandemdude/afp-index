@@ -1,0 +1,5 @@
+[project]
+name = 'Group-Ring-Module'
+description = 'Group-Ring-Module from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Discrete_Summation'
+description = 'Discrete_Summation from the Archive of Formal Proofs'
+version = '2019'
+requires = []

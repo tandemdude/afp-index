@@ -1,0 +1,5 @@
+[project]
+name = 'Ergodic_Theory'
+description = 'Ergodic_Theory from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Sqrt_Babylonian'
+description = 'Sqrt_Babylonian from the Archive of Formal Proofs'
+version = '2019'
+requires = []

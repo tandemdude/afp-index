@@ -1,0 +1,5 @@
+[project]
+name = 'Probabilistic_Noninterference'
+description = 'Probabilistic_Noninterference from the Archive of Formal Proofs'
+version = '2019'
+requires = []

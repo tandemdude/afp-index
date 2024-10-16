@@ -1,0 +1,5 @@
+[project]
+name = 'Markov_Models'
+description = 'Markov_Models from the Archive of Formal Proofs'
+version = '2019'
+requires = []

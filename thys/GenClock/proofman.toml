@@ -1,0 +1,5 @@
+[project]
+name = 'GenClock'
+description = 'GenClock from the Archive of Formal Proofs'
+version = '2019'
+requires = []

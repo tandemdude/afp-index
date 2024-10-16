@@ -1,0 +1,5 @@
+[project]
+name = 'Featherweight_OCL'
+description = 'Featherweight_OCL from the Archive of Formal Proofs'
+version = '2019'
+requires = []

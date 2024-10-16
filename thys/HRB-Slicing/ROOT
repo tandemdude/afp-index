@@ -1,0 +1,8 @@
+chapter AFP
+
+session "HRB-Slicing" (AFP) = Jinja +
+  options [timeout = 1200]
+  theories
+    HRBSlicing
+  document_files
+    "root.tex"

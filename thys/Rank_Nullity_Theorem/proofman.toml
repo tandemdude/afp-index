@@ -1,0 +1,5 @@
+[project]
+name = 'Rank_Nullity_Theorem'
+description = 'Rank_Nullity_Theorem from the Archive of Formal Proofs'
+version = '2019'
+requires = []

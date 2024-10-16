@@ -1,0 +1,5 @@
+[project]
+name = 'Flyspeck-Tame'
+description = 'Flyspeck-Tame from the Archive of Formal Proofs'
+version = '2019'
+requires = []

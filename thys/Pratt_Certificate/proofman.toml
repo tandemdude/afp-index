@@ -1,0 +1,5 @@
+[project]
+name = 'Pratt_Certificate'
+description = 'Pratt_Certificate from the Archive of Formal Proofs'
+version = '2019'
+requires = []

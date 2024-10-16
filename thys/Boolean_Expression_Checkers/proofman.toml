@@ -1,0 +1,5 @@
+[project]
+name = 'Boolean_Expression_Checkers'
+description = 'Boolean_Expression_Checkers from the Archive of Formal Proofs'
+version = '2019'
+requires = []

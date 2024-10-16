@@ -1,0 +1,5 @@
+[project]
+name = 'Prime_Harmonic_Series'
+description = 'Prime_Harmonic_Series from the Archive of Formal Proofs'
+version = '2019'
+requires = []

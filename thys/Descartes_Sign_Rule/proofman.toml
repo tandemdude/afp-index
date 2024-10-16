@@ -1,0 +1,5 @@
+[project]
+name = 'Descartes_Sign_Rule'
+description = 'Descartes_Sign_Rule from the Archive of Formal Proofs'
+version = '2019'
+requires = []

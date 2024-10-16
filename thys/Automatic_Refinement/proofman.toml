@@ -1,0 +1,5 @@
+[project]
+name = 'Automatic_Refinement'
+description = 'Automatic_Refinement from the Archive of Formal Proofs'
+version = '2019'
+requires = []

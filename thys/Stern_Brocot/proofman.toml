@@ -1,0 +1,5 @@
+[project]
+name = 'Stern_Brocot'
+description = 'Stern_Brocot from the Archive of Formal Proofs'
+version = '2019'
+requires = []

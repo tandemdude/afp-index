@@ -1,0 +1,19 @@
+chapter AFP
+
+session Regex_Equivalence (AFP) = "HOL-Library" +
+  theories [document = false]
+    "../Efficient-Mergesort/Efficient_Sort"
+    "../Regular-Sets/Derivatives"
+    "../Regular-Sets/Regular_Exp"
+    "../Regular-Sets/NDerivative"
+  theories
+    Regex_Equivalence
+  document_files
+    "root.tex"
+    "root.bib"
+
+session Regex_Equivalence_Examples (AFP) = Regex_Equivalence +
+  options [document = false]
+  theories
+    Examples
+    Benchmark

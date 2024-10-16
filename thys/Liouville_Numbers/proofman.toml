@@ -1,0 +1,5 @@
+[project]
+name = 'Liouville_Numbers'
+description = 'Liouville_Numbers from the Archive of Formal Proofs'
+version = '2019'
+requires = []

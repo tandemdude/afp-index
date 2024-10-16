@@ -1,0 +1,12 @@
+chapter AFP
+
+session Open_Induction (AFP) = HOL +
+  options [timeout = 600]
+  theories [document = false]
+    "../Well_Quasi_Orders/Restricted_Predicates"
+  theories
+    Open_Induction
+  document_files
+    "root.tex"
+    "root.bib"
+

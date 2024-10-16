@@ -1,0 +1,5 @@
+[project]
+name = 'Depth-First-Search'
+description = 'Depth-First-Search from the Archive of Formal Proofs'
+version = '2019'
+requires = []

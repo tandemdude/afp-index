@@ -1,0 +1,5 @@
+[project]
+name = 'Refine_Monadic'
+description = 'Refine_Monadic from the Archive of Formal Proofs'
+version = '2019'
+requires = []

@@ -1,0 +1,5 @@
+[project]
+name = 'Impossible_Geometry'
+description = 'Impossible_Geometry from the Archive of Formal Proofs'
+version = '2019'
+requires = []

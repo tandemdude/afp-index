@@ -1,0 +1,9 @@
+chapter AFP
+
+session Topology (AFP) = "Lazy-Lists-II" +
+  options [timeout = 600]
+  theories
+    LList_Topology
+  document_files
+    "root.bib"
+    "root.tex"
