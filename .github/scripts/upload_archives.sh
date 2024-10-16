@@ -10,17 +10,13 @@ for archive in archives/*.zip; do
     exit 1
   fi
 
-  # Send POST request with the archive as the body
-  echo "Uploading $archive..."
-  curl -X POST -F "file=@$archive" "$url"
-
   curl -L \
     -X POST \
     -H "Accept: application/vnd.github+json" \
     -H "Authorization: Bearer $GITHUB_TOKEN" \
     -H "X-GitHub-Api-Version: 2022-11-28" \
-    -H "Content-Type: application/octet-stream" \
-    $UPLOAD_URL \
+    -H "Content-Type: application/zip" \
+    $UPLOAD_URL?name=$(basename $archive) \
     --data-binary "@$archive"
 
   # Increment the counter
