@@ -10,7 +10,29 @@ permissions:
   contents: write
 
 jobs:
+  check-release:
+    runs-on: ubuntu-latest
+    outputs:
+      exists: ${{ steps.check.outputs.EXISTS }}
+
+    steps:
+      - name: Check Release Exists
+        id: check
+        run: |
+          gh release view v${{ github.ref }} --json id
+          
+          if [ $? -eq 0 ]; then
+            echo "Release already exists"
+            echo "EXISTS=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Release doesn't exist already"
+            echo "EXISTS=false" >> "$GITHUB_OUTPUT"
+          fi
+
   release:
+    needs: [check-release]
+    if: needs.check-release.outputs.exists == 'false'
+
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
